@@ -1,12 +1,12 @@
 {
-  "name": "internal-plugins-marketplace",
-  "display_name": "公司内部插件市场",
-  "description": "企业内部 Claude Code 插件仓库",
+  "name": "cc-plugin-marketplace",
+  "display_name": "CC插件市场",
+  "description": "Claude Code 插件仓库",
   "owner": {
-    "name": "技术基础设施团队",
-    "email": "infra@company.com"
+    "name": "开发者",
+    "email": "developer@example.com"
   },
-  "repository": "",
+  "repository": "https://github.com/lizz0725/cc-plugin-marketplace.git",
   "created_at": "2026-04-14",
   "plugins_count": 0
 }
