@@ -1,0 +1,15 @@
+{
+  "name": "auto-push-test",
+  "description": "测试自动推送到GitHub功能",
+  "version": "1.0.0",
+  "author": {
+    "name": "测试者",
+    "email": "tester@example.com"
+  },
+  "keywords": [
+    "test",
+    "auto-push"
+  ],
+  "license": "MIT",
+  "homepage": null
+}

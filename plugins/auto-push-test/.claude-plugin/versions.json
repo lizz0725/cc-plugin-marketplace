@@ -1,0 +1,12 @@
+{
+  "current": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2026-04-14",
+      "git_ref": "auto-push-test-v1.0.0",
+      "changelog": "初始版本",
+      "status": "current"
+    }
+  ]
+}
