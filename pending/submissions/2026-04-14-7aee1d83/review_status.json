@@ -1,7 +1,7 @@
 {
   "submission_id": "2026-04-14-7aee1d83",
-  "status": "pending",
-  "reviewed_by": null,
-  "reviewed_at": null,
-  "review_notes": null
+  "status": "approved",
+  "reviewed_by": "developer@company.com",
+  "reviewed_at": "2026-04-14T12:03:23.741396+00:00",
+  "review_notes": "第二轮测试自动推送"
 }
