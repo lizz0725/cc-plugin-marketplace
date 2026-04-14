@@ -11,22 +11,19 @@
       "name": "hello-world",
       "description": "一个简单的测试插件，用于演示插件市场功能",
       "category": "demo",
-      "source": "./plugins/hello-world/.claude-plugin",
-      "homepage": null
+      "source": "./plugins/hello-world/.claude-plugin"
     },
     {
       "name": "auto-push-test",
       "description": "测试自动推送到GitHub功能",
       "category": "test",
-      "source": "./plugins/auto-push-test/.claude-plugin",
-      "homepage": null
+      "source": "./plugins/auto-push-test/.claude-plugin"
     },
     {
       "name": "push-test-v2",
       "description": "第二轮测试自动推送功能",
       "category": "test",
-      "source": "./plugins/push-test-v2/.claude-plugin",
-      "homepage": null
+      "source": "./plugins/push-test-v2/.claude-plugin"
     }
   ]
 }
