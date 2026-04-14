@@ -1,0 +1,15 @@
+{
+  "name": "hello-world2",
+  "description": "hello-world2",
+  "version": "1.0.0",
+  "author": {
+    "name": "李壮壮",
+    "email": "developer@company.com"
+  },
+  "keywords": [
+    "test",
+    "demo",
+    "example"
+  ],
+  "license": "proprietary"
+}

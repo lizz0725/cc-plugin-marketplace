@@ -1,7 +1,7 @@
 {
   "submission_id": "2026-04-14-87601424",
-  "status": "pending",
-  "reviewed_by": null,
-  "reviewed_at": null,
-  "review_notes": null
+  "status": "approved",
+  "reviewed_by": "developer@company.com",
+  "reviewed_at": "2026-04-14T13:11:23.040510+00:00",
+  "review_notes": "通过"
 }
