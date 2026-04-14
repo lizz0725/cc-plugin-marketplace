@@ -1,0 +1,12 @@
+{
+  "name": "internal-plugins-marketplace",
+  "display_name": "公司内部插件市场",
+  "description": "企业内部 Claude Code 插件仓库",
+  "owner": {
+    "name": "技术基础设施团队",
+    "email": "infra@company.com"
+  },
+  "repository": "",
+  "created_at": "2026-04-14",
+  "plugins_count": 0
+}
