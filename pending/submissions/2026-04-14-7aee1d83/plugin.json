@@ -1,0 +1,15 @@
+{
+  "name": "push-test-v2",
+  "description": "第二轮测试自动推送功能",
+  "version": "2.0.0",
+  "author": {
+    "name": "测试者",
+    "email": "tester@example.com"
+  },
+  "keywords": [
+    "test",
+    "push-v2"
+  ],
+  "license": "MIT",
+  "homepage": null
+}
