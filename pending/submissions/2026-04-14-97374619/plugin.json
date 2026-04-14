@@ -1,0 +1,16 @@
+{
+  "name": "hello-world",
+  "description": "一个简单的测试插件，用于演示插件市场功能",
+  "version": "1.0.0",
+  "author": {
+    "name": "开发者",
+    "email": "developer@company.com"
+  },
+  "keywords": [
+    "test",
+    "demo",
+    "example"
+  ],
+  "license": "proprietary",
+  "homepage": null
+}
