@@ -10,15 +10,15 @@
   "plugins": [
     {
       "name": "hello-world",
-      "path": "plugins/hello-world/.claude-plugin"
+      "source": "plugins/hello-world/.claude-plugin"
     },
     {
       "name": "auto-push-test",
-      "path": "plugins/auto-push-test/.claude-plugin"
+      "source": "plugins/auto-push-test/.claude-plugin"
     },
     {
       "name": "push-test-v2",
-      "path": "plugins/push-test-v2/.claude-plugin"
+      "source": "plugins/push-test-v2/.claude-plugin"
     }
   ]
 }
