@@ -1,6 +1,13 @@
 {
   "plugin": "hello-world",
-  "average_rating": 0.0,
-  "total_ratings": 0,
-  "ratings": []
+  "average_rating": 5.0,
+  "total_ratings": 1,
+  "ratings": [
+    {
+      "user": "developer@company.com",
+      "rating": 5,
+      "comment": "good",
+      "rated_at": "2026-04-14T11:55:21.012590+00:00"
+    }
+  ]
 }
