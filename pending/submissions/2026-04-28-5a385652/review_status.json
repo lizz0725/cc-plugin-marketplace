@@ -1,4 +1,7 @@
 {
   "submission_id": "2026-04-28-5a385652",
-  "status": "pending"
+  "status": "approved",
+  "reviewed_by": "developer@company.com",
+  "reviewed_at": "2026-04-28T15:29:39.646763+00:00",
+  "review_notes": ""
 }
