@@ -1,0 +1,11 @@
+{
+  "name": "ui-ux-pro-max",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "commit_sha": "b7e3af80f6e331f6fb456667b82b12cade7c9d35",
+    "subdir": null,
+    "last_sync_at": "2026-05-07T15:20:07Z"
+  },
+  "installed_path": "./plugins/ui-ux-pro-max/.claude-plugin"
+}
