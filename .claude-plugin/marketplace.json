@@ -1,10 +1,9 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "cc-plugin-marketplace",
-  "description": "Claude Code 内部插件市场 - 企业内部插件分享平台",
+  "description": "Claude Code Plugin Marketplace - Curated collection of popular plugins and skills",
   "owner": {
-    "name": "开发者",
-    "email": "developer@example.com"
+    "name": "Marketplace Admin"
   },
   "plugins": [
     {

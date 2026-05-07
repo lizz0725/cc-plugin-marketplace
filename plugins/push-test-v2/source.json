@@ -1,0 +1,8 @@
+{
+  "name": "push-test-v2",
+  "source": {
+    "type": "manual",
+    "last_sync_at": "2026-05-07T08:00:00Z"
+  },
+  "installed_path": "./plugins/push-test-v2/.claude-plugin"
+}

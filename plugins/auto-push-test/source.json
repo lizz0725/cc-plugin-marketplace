@@ -1,0 +1,8 @@
+{
+  "name": "auto-push-test",
+  "source": {
+    "type": "manual",
+    "last_sync_at": "2026-05-07T08:00:00Z"
+  },
+  "installed_path": "./plugins/auto-push-test/.claude-plugin"
+}
