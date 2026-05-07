@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "last_updated": "2026-05-07T15:35:34Z",
+  "last_updated": "2026-05-07T16:11:26Z",
   "plugins": [
     {
       "name": "hello-world",
@@ -143,11 +143,11 @@
         "type": "github_single",
         "repo_url": "https://github.com/affaan-m/everything-claude-code",
         "repo_ref": "main",
-        "commit_sha": "",
+        "commit_sha": "841beea45cb25ba51f29fa45b7e272938d19b80a",
         "subdir": null,
         "version": "",
-        "last_sync_at": "",
-        "last_sync_status": "failed"
+        "last_sync_at": "2026-05-07T16:11:26Z",
+        "last_sync_status": "success"
       }
     },
     {
@@ -194,7 +194,7 @@
         "subdir": null,
         "version": "",
         "last_sync_at": "",
-        "last_sync_status": "failed"
+        "last_sync_status": "pending"
       }
     }
   ],

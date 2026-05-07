@@ -49,6 +49,12 @@
       "source": "./plugins/ui-ux-pro-max/.claude-plugin"
     },
     {
+      "name": "everything-claude-code",
+      "description": "Battle-tested Claude Code plugin for engineering teams — 48 agents, 182 skills, 68 legacy command shims, production-ready hooks, and selective install workflows evolved through continuous real-world use",
+      "category": "community",
+      "source": "./plugins/everything-claude-code/.claude-plugin"
+    },
+    {
       "name": "claude-mem",
       "description": "Memory compression system for Claude Code - persist context across sessions",
       "category": "community",
