@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "last_updated": "2026-05-07T14:49:47Z",
+  "last_updated": "2026-05-07T08:00:00Z",
   "plugins": [
     {
       "name": "hello-world",
@@ -42,29 +42,16 @@
       }
     },
     {
-      "name": "anthropic-skills",
-      "display_name": "Anthropic Skills",
-      "description": "Official skill collection from Anthropic: docx, pdf, pptx, xlsx, claude-api, mcp-builder, skill-creator, webapp-testing, web-artifacts-builder, canvas-design, theme-factory, brand-guidelines, frontend-design, slack-gif-creator, internal-comms, doc-coauthoring, algorithmic-art",
-      "category": "official",
-      "author": "anthropics",
-      "stars": 20600,
-      "homepage": "https://github.com/anthropics/skills",
-      "tags": [
-        "official",
-        "document",
-        "api",
-        "design",
-        "art"
-      ],
+      "name": "hello-world2",
+      "display_name": "Hello World 2",
+      "description": "测试插件 - 第二个版本",
+      "category": "demo",
+      "author": "internal",
+      "stars": 0,
       "source": {
-        "type": "github_single",
-        "repo_url": "https://github.com/anthropics/skills",
-        "repo_ref": "main",
-        "commit_sha": "",
-        "subdir": null,
-        "version": "",
-        "last_sync_at": "",
-        "last_sync_status": "failed"
+        "type": "manual",
+        "last_sync_at": "2026-05-07T08:00:00Z",
+        "last_sync_status": "success"
       }
     },
     {
@@ -84,11 +71,35 @@
         "type": "github_single",
         "repo_url": "https://github.com/forrestchang/andrej-karpathy-skills",
         "repo_ref": "main",
-        "commit_sha": "2c606141936f1eeef17fa3043a72095b4765b9c2",
+        "commit_sha": "",
         "subdir": null,
         "version": "",
-        "last_sync_at": "2026-05-07T14:38:13Z",
-        "last_sync_status": "success"
+        "last_sync_at": "",
+        "last_sync_status": "pending"
+      }
+    },
+    {
+      "name": "caveman",
+      "display_name": "Caveman",
+      "description": "Why use many token when few token do trick - cuts 65% of tokens",
+      "category": "community",
+      "author": "JuliusBrussee",
+      "stars": 55700,
+      "homepage": "https://github.com/JuliusBrussee/caveman",
+      "tags": [
+        "tokens",
+        "optimization",
+        "fun"
+      ],
+      "source": {
+        "type": "github_single",
+        "repo_url": "https://github.com/JuliusBrussee/caveman",
+        "repo_ref": "main",
+        "commit_sha": "",
+        "subdir": null,
+        "version": "",
+        "last_sync_at": "",
+        "last_sync_status": "pending"
       }
     },
     {
@@ -112,31 +123,7 @@
         "subdir": null,
         "version": "",
         "last_sync_at": "",
-        "last_sync_status": "failed"
-      }
-    },
-    {
-      "name": "caveman",
-      "display_name": "Caveman",
-      "description": "Why use many token when few token do trick - cuts 65% of tokens",
-      "category": "community",
-      "author": "JuliusBrussee",
-      "stars": 55700,
-      "homepage": "https://github.com/JuliusBrussee/caveman",
-      "tags": [
-        "tokens",
-        "optimization",
-        "fun"
-      ],
-      "source": {
-        "type": "github_single",
-        "repo_url": "https://github.com/JuliusBrussee/caveman",
-        "repo_ref": "main",
-        "commit_sha": "ef6050c5e1848b6880ff47c32ade1a608a64f85e",
-        "subdir": null,
-        "version": "",
-        "last_sync_at": "2026-05-07T14:40:25Z",
-        "last_sync_status": "success"
+        "last_sync_status": "pending"
       }
     },
     {
@@ -160,7 +147,7 @@
         "subdir": null,
         "version": "",
         "last_sync_at": "",
-        "last_sync_status": "failed"
+        "last_sync_status": "pending"
       }
     },
     {
@@ -184,7 +171,7 @@
         "subdir": null,
         "version": "",
         "last_sync_at": "",
-        "last_sync_status": "failed"
+        "last_sync_status": "pending"
       }
     },
     {
@@ -207,149 +194,7 @@
         "subdir": null,
         "version": "",
         "last_sync_at": "",
-        "last_sync_status": "failed"
-      }
-    },
-    {
-      "name": "graphify",
-      "display_name": "Graphify",
-      "description": "Turn code, schemas, docs, images into queryable knowledge graphs",
-      "category": "community",
-      "author": "graphify",
-      "stars": 44200,
-      "homepage": "https://github.com/graphify/graphify",
-      "tags": [
-        "knowledge-graph",
-        "code-analysis"
-      ],
-      "source": {
-        "type": "github_single",
-        "repo_url": "https://github.com/graphify/graphify",
-        "repo_ref": "main",
-        "commit_sha": "",
-        "subdir": null,
-        "version": "",
-        "last_sync_at": "",
         "last_sync_status": "pending"
-      }
-    },
-    {
-      "name": "pm-skills",
-      "display_name": "PM Skills",
-      "description": "100+ agentic PM skills: discovery, strategy, execution, launch, growth",
-      "category": "community",
-      "author": "pm-skills",
-      "stars": 10900,
-      "homepage": "https://github.com/ykdojo/pm-skills",
-      "tags": [
-        "project-management",
-        "pm"
-      ],
-      "source": {
-        "type": "github_single",
-        "repo_url": "https://github.com/ykdojo/pm-skills",
-        "repo_ref": "main",
-        "commit_sha": "",
-        "subdir": null,
-        "version": "",
-        "last_sync_at": "",
-        "last_sync_status": "pending"
-      }
-    },
-    {
-      "name": "aws-skills",
-      "display_name": "AWS Skills",
-      "description": "AWS CDK best practices, cost optimization MCP, serverless/event-driven architecture",
-      "category": "community",
-      "author": "zxkane",
-      "stars": 9000,
-      "homepage": "https://github.com/zxkane/aws-skills",
-      "tags": [
-        "aws",
-        "cloud",
-        "cdk"
-      ],
-      "source": {
-        "type": "github_single",
-        "repo_url": "https://github.com/zxkane/aws-skills",
-        "repo_ref": "main",
-        "commit_sha": "",
-        "subdir": null,
-        "version": "",
-        "last_sync_at": "",
-        "last_sync_status": "failed"
-      }
-    },
-    {
-      "name": "claude-red",
-      "display_name": "Claude Red",
-      "description": "Offensive security skills for authorized red-team and bug-bounty engagements",
-      "category": "security",
-      "author": "claude-red",
-      "stars": 1100,
-      "homepage": "https://github.com/claude-red/Claude-Red",
-      "tags": [
-        "security",
-        "pentest",
-        "red-team"
-      ],
-      "source": {
-        "type": "github_single",
-        "repo_url": "https://github.com/jthack/claude-red",
-        "repo_ref": "main",
-        "commit_sha": "",
-        "subdir": null,
-        "version": "",
-        "last_sync_at": "",
-        "last_sync_status": "pending"
-      }
-    },
-    {
-      "name": "drawio-skill",
-      "display_name": "Drawio Skill",
-      "description": "Generate draw.io diagrams from natural language, export to PNG/SVG/PDF",
-      "category": "community",
-      "author": "drawio-skill",
-      "stars": 1200,
-      "homepage": "https://github.com/drawio-skill/drawio-skill",
-      "tags": [
-        "diagram",
-        "drawio",
-        "visualization"
-      ],
-      "source": {
-        "type": "github_single",
-        "repo_url": "https://github.com/drawio-skill/drawio-skill",
-        "repo_ref": "main",
-        "commit_sha": "",
-        "subdir": null,
-        "version": "",
-        "last_sync_at": "",
-        "last_sync_status": "pending"
-      }
-    },
-    {
-      "name": "great_cto",
-      "display_name": "Great CTO",
-      "description": "7 specialized sub-agents for full SDLC: architecture, TDD, code review, QA, security, devops, project audit",
-      "category": "community",
-      "author": "avelikiy",
-      "stars": 1500,
-      "homepage": "https://github.com/avelikiy/great_cto",
-      "tags": [
-        "sdlc",
-        "development",
-        "code-review"
-      ],
-      "source": {
-        "type": "github_single",
-        "repo_url": "https://github.com/avelikiy/great_cto",
-        "repo_ref": "main",
-        "commit_sha": "",
-        "subdir": null,
-        "version": "",
-        "last_sync_at": "",
-        "last_sync_status": "failed"
       }
     }
   ],
