@@ -23,6 +23,18 @@
       "description": "第二轮测试自动推送功能",
       "category": "test",
       "source": "./plugins/push-test-v2/.claude-plugin"
+    },
+    {
+      "name": "andrej-karpathy-skills",
+      "description": "Behavioral guidelines to reduce common LLM coding mistakes, derived from Andrej Karpathy's observations on LLM coding pitfalls",
+      "category": "community",
+      "source": "./plugins/karpathy-skills/.claude-plugin"
+    },
+    {
+      "name": "caveman",
+      "description": "Ultra-compressed communication mode. Cuts ~75% of tokens while keeping full technical accuracy by speaking like a caveman.",
+      "category": "community",
+      "source": "./plugins/caveman/.claude-plugin"
     }
   ]
 }

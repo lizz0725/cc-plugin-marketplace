@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "last_updated": "2026-05-07T14:13:06Z",
+  "last_updated": "2026-05-07T14:49:47Z",
   "plugins": [
     {
       "name": "hello-world",
@@ -42,344 +42,35 @@
       }
     },
     {
-      "name": "document-skills",
-      "display_name": "Document Skills",
-      "description": "Document processing skills: docx, pdf, pptx, xlsx, and more",
+      "name": "anthropic-skills",
+      "display_name": "Anthropic Skills",
+      "description": "Official skill collection from Anthropic: docx, pdf, pptx, xlsx, claude-api, mcp-builder, skill-creator, webapp-testing, web-artifacts-builder, canvas-design, theme-factory, brand-guidelines, frontend-design, slack-gif-creator, internal-comms, doc-coauthoring, algorithmic-art",
       "category": "official",
       "author": "anthropics",
       "stars": 20600,
-      "homepage": "https://github.com/anthropics/skills/tree/main/skills/document-skills",
+      "homepage": "https://github.com/anthropics/skills",
       "tags": [
+        "official",
         "document",
-        "office",
-        "pdf",
-        "docx"
-      ],
-      "source": {
-        "type": "github_monorepo",
-        "repo_url": "https://github.com/anthropics/skills",
-        "repo_ref": "main",
-        "commit_sha": "98669c11ca63e9c81c11501e1437e5c47b556621",
-        "subdir": "skills/document-skills",
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "failed"
-      }
-    },
-    {
-      "name": "claude-api",
-      "display_name": "Claude API",
-      "description": "Build apps with the Claude API or Anthropic SDK",
-      "category": "official",
-      "author": "anthropics",
-      "stars": 20600,
-      "homepage": "https://github.com/anthropics/skills/tree/main/skills/claude-api",
-      "tags": [
-        "claude",
         "api",
-        "sdk"
-      ],
-      "source": {
-        "type": "github_monorepo",
-        "repo_url": "https://github.com/anthropics/skills",
-        "repo_ref": "main",
-        "commit_sha": "98669c11ca63e9c81c11501e1437e5c47b556621",
-        "subdir": "skills/claude-api",
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "failed"
-      }
-    },
-    {
-      "name": "mcp-builder",
-      "display_name": "MCP Builder",
-      "description": "Guides creation of high-quality MCP servers for integrating external APIs with LLMs",
-      "category": "official",
-      "author": "anthropics",
-      "stars": 20600,
-      "homepage": "https://github.com/anthropics/skills/tree/main/skills/mcp-builder",
-      "tags": [
-        "mcp",
-        "server",
-        "api"
-      ],
-      "source": {
-        "type": "github_monorepo",
-        "repo_url": "https://github.com/anthropics/skills",
-        "repo_ref": "main",
-        "commit_sha": "98669c11ca63e9c81c11501e1437e5c47b556621",
-        "subdir": "skills/mcp-builder",
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "success"
-      }
-    },
-    {
-      "name": "skill-creator",
-      "display_name": "Skill Creator",
-      "description": "Create effective Claude Skills that extend capabilities with specialized knowledge",
-      "category": "official",
-      "author": "anthropics",
-      "stars": 20600,
-      "homepage": "https://github.com/anthropics/skills/tree/main/skills/skill-creator",
-      "tags": [
-        "skill",
-        "create"
-      ],
-      "source": {
-        "type": "github_monorepo",
-        "repo_url": "https://github.com/anthropics/skills",
-        "repo_ref": "main",
-        "commit_sha": "98669c11ca63e9c81c11501e1437e5c47b556621",
-        "subdir": "skills/skill-creator",
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "failed"
-      }
-    },
-    {
-      "name": "webapp-testing",
-      "display_name": "Webapp Testing",
-      "description": "Test local web applications using Playwright for verifying frontend functionality",
-      "category": "official",
-      "author": "anthropics",
-      "stars": 20600,
-      "homepage": "https://github.com/anthropics/skills/tree/main/skills/webapp-testing",
-      "tags": [
-        "testing",
-        "playwright",
-        "web"
-      ],
-      "source": {
-        "type": "github_monorepo",
-        "repo_url": "https://github.com/anthropics/skills",
-        "repo_ref": "main",
-        "commit_sha": "98669c11ca63e9c81c11501e1437e5c47b556621",
-        "subdir": "skills/webapp-testing",
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "failed"
-      }
-    },
-    {
-      "name": "web-artifacts-builder",
-      "display_name": "Web Artifacts Builder",
-      "description": "Create elaborate multi-component HTML artifacts using React, Tailwind, shadcn/ui",
-      "category": "official",
-      "author": "anthropics",
-      "stars": 20600,
-      "homepage": "https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder",
-      "tags": [
-        "html",
-        "react",
-        "tailwind",
-        "artifact"
-      ],
-      "source": {
-        "type": "github_monorepo",
-        "repo_url": "https://github.com/anthropics/skills",
-        "repo_ref": "main",
-        "commit_sha": "98669c11ca63e9c81c11501e1437e5c47b556621",
-        "subdir": "skills/web-artifacts-builder",
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "failed"
-      }
-    },
-    {
-      "name": "canvas-design",
-      "display_name": "Canvas Design",
-      "description": "Create beautiful visual art in PNG and PDF documents using design philosophy",
-      "category": "official",
-      "author": "anthropics",
-      "stars": 20600,
-      "homepage": "https://github.com/anthropics/skills/tree/main/skills/canvas-design",
-      "tags": [
         "design",
-        "art",
-        "canvas"
+        "art"
       ],
       "source": {
-        "type": "github_monorepo",
+        "type": "github_single",
         "repo_url": "https://github.com/anthropics/skills",
         "repo_ref": "main",
-        "commit_sha": "98669c11ca63e9c81c11501e1437e5c47b556621",
-        "subdir": "skills/canvas-design",
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
+        "commit_sha": "",
+        "subdir": null,
+        "version": "",
+        "last_sync_at": "",
         "last_sync_status": "failed"
-      }
-    },
-    {
-      "name": "theme-factory",
-      "display_name": "Theme Factory",
-      "description": "Apply professional font and color themes to artifacts with 10 pre-set themes",
-      "category": "official",
-      "author": "anthropics",
-      "stars": 20600,
-      "homepage": "https://github.com/anthropics/skills/tree/main/skills/theme-factory",
-      "tags": [
-        "theme",
-        "design",
-        "styling"
-      ],
-      "source": {
-        "type": "github_monorepo",
-        "repo_url": "https://github.com/anthropics/skills",
-        "repo_ref": "main",
-        "commit_sha": "98669c11ca63e9c81c11501e1437e5c47b556621",
-        "subdir": "skills/theme-factory",
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "success"
-      }
-    },
-    {
-      "name": "brand-guidelines",
-      "display_name": "Brand Guidelines",
-      "description": "Apply official brand colors and typography to artifacts for consistent visual identity",
-      "category": "official",
-      "author": "anthropics",
-      "stars": 20600,
-      "homepage": "https://github.com/anthropics/skills/tree/main/skills/brand-guidelines",
-      "tags": [
-        "brand",
-        "design",
-        "identity"
-      ],
-      "source": {
-        "type": "github_monorepo",
-        "repo_url": "https://github.com/anthropics/skills",
-        "repo_ref": "main",
-        "commit_sha": "98669c11ca63e9c81c11501e1437e5c47b556621",
-        "subdir": "skills/brand-guidelines",
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "success"
-      }
-    },
-    {
-      "name": "frontend-design",
-      "display_name": "Frontend Design",
-      "description": "Frontend design system skills for creating professional UI",
-      "category": "official",
-      "author": "anthropics",
-      "stars": 20600,
-      "homepage": "https://github.com/anthropics/skills/tree/main/skills/frontend-design",
-      "tags": [
-        "frontend",
-        "design",
-        "ui"
-      ],
-      "source": {
-        "type": "github_monorepo",
-        "repo_url": "https://github.com/anthropics/skills",
-        "repo_ref": "main",
-        "commit_sha": "98669c11ca63e9c81c11501e1437e5c47b556621",
-        "subdir": "skills/frontend-design",
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "success"
-      }
-    },
-    {
-      "name": "slack-gif-creator",
-      "display_name": "Slack GIF Creator",
-      "description": "Create animated GIFs optimized for Slack with validators and animation primitives",
-      "category": "official",
-      "author": "anthropics",
-      "stars": 20600,
-      "homepage": "https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator",
-      "tags": [
-        "slack",
-        "gif",
-        "animation"
-      ],
-      "source": {
-        "type": "github_monorepo",
-        "repo_url": "https://github.com/anthropics/skills",
-        "repo_ref": "main",
-        "commit_sha": "98669c11ca63e9c81c11501e1437e5c47b556621",
-        "subdir": "skills/slack-gif-creator",
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "success"
-      }
-    },
-    {
-      "name": "internal-comms",
-      "display_name": "Internal Comms",
-      "description": "Write internal communications, newsletters, FAQs, status reports",
-      "category": "official",
-      "author": "anthropics",
-      "stars": 20600,
-      "homepage": "https://github.com/anthropics/skills/tree/main/skills/internal-comms",
-      "tags": [
-        "writing",
-        "communication"
-      ],
-      "source": {
-        "type": "github_monorepo",
-        "repo_url": "https://github.com/anthropics/skills",
-        "repo_ref": "main",
-        "commit_sha": "98669c11ca63e9c81c11501e1437e5c47b556621",
-        "subdir": "skills/internal-comms",
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "success"
-      }
-    },
-    {
-      "name": "doc-coauthoring",
-      "display_name": "Doc Coauthoring",
-      "description": "Collaborative document authoring and editing skills",
-      "category": "official",
-      "author": "anthropics",
-      "stars": 20600,
-      "homepage": "https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring",
-      "tags": [
-        "writing",
-        "collaboration"
-      ],
-      "source": {
-        "type": "github_monorepo",
-        "repo_url": "https://github.com/anthropics/skills",
-        "repo_ref": "main",
-        "commit_sha": "98669c11ca63e9c81c11501e1437e5c47b556621",
-        "subdir": "skills/doc-coauthoring",
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "success"
-      }
-    },
-    {
-      "name": "algorithmic-art",
-      "display_name": "Algorithmic Art",
-      "description": "Algorithmic art generation and creative coding skills",
-      "category": "official",
-      "author": "anthropics",
-      "stars": 20600,
-      "homepage": "https://github.com/anthropics/skills/tree/main/skills/algorithmic-art",
-      "tags": [
-        "art",
-        "creative",
-        "generative"
-      ],
-      "source": {
-        "type": "github_monorepo",
-        "repo_url": "https://github.com/anthropics/skills",
-        "repo_ref": "main",
-        "commit_sha": "98669c11ca63e9c81c11501e1437e5c47b556621",
-        "subdir": "skills/algorithmic-art",
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "success"
       }
     },
     {
       "name": "karpathy-skills",
-      "display_name": "Karpathy Skills",
-      "description": "Coding behavior guidelines derived from Andrej Karpathy's observations on LLM pitfalls",
+      "display_name": "Karpathy Guidelines",
+      "description": "Coding behavior guidelines from Andrej Karpathy's observations on LLM pitfalls",
       "category": "community",
       "author": "forrestchang",
       "stars": 118000,
@@ -395,8 +86,8 @@
         "repo_ref": "main",
         "commit_sha": "2c606141936f1eeef17fa3043a72095b4765b9c2",
         "subdir": null,
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
+        "version": "",
+        "last_sync_at": "2026-05-07T14:38:13Z",
         "last_sync_status": "success"
       }
     },
@@ -419,9 +110,9 @@
         "repo_ref": "main",
         "commit_sha": "",
         "subdir": null,
-        "version": "2.5.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "pending"
+        "version": "",
+        "last_sync_at": "",
+        "last_sync_status": "failed"
       }
     },
     {
@@ -441,40 +132,17 @@
         "type": "github_single",
         "repo_url": "https://github.com/JuliusBrussee/caveman",
         "repo_ref": "main",
-        "commit_sha": "",
+        "commit_sha": "ef6050c5e1848b6880ff47c32ade1a608a64f85e",
         "subdir": null,
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "pending"
-      }
-    },
-    {
-      "name": "graphify",
-      "display_name": "Graphify",
-      "description": "Turn any folder of code, schemas, docs into a queryable knowledge graph",
-      "category": "community",
-      "author": "graphify",
-      "stars": 44200,
-      "homepage": "https://github.com/graphify/graphify",
-      "tags": [
-        "knowledge-graph",
-        "code-analysis"
-      ],
-      "source": {
-        "type": "github_single",
-        "repo_url": "https://github.com/graphify/graphify",
-        "repo_ref": "main",
-        "commit_sha": "",
-        "subdir": null,
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "pending"
+        "version": "",
+        "last_sync_at": "2026-05-07T14:40:25Z",
+        "last_sync_status": "success"
       }
     },
     {
       "name": "everything-claude-code",
       "display_name": "Everything Claude Code",
-      "description": "Agent harness performance optimization: skills, instincts, memory, security",
+      "description": "Agent harness performance optimization: skills, instincts, memory, security, research-first development",
       "category": "community",
       "author": "affaan-m",
       "stars": 175000,
@@ -490,15 +158,15 @@
         "repo_ref": "main",
         "commit_sha": "",
         "subdir": null,
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "pending"
+        "version": "",
+        "last_sync_at": "",
+        "last_sync_status": "failed"
       }
     },
     {
       "name": "claude-mem",
       "display_name": "Claude Mem",
-      "description": "Auto-capture everything Claude does during coding sessions, compress with AI, inject context",
+      "description": "Auto-capture Claude sessions, compress with AI, inject context into future sessions",
       "category": "community",
       "author": "thedotmack",
       "stars": 73100,
@@ -514,23 +182,22 @@
         "repo_ref": "main",
         "commit_sha": "",
         "subdir": null,
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "pending"
+        "version": "",
+        "last_sync_at": "",
+        "last_sync_status": "failed"
       }
     },
     {
       "name": "career-ops",
       "display_name": "Career Ops",
-      "description": "AI-powered job search system: 14 skill modes, Go dashboard, PDF generation",
+      "description": "AI-powered job search: 14 skill modes, Go dashboard, PDF generation, batch processing",
       "category": "community",
       "author": "santifer",
       "stars": 43200,
       "homepage": "https://github.com/santifer/career-ops",
       "tags": [
         "career",
-        "job-search",
-        "ai"
+        "job-search"
       ],
       "source": {
         "type": "github_single",
@@ -538,38 +205,61 @@
         "repo_ref": "main",
         "commit_sha": "",
         "subdir": null,
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
+        "version": "",
+        "last_sync_at": "",
+        "last_sync_status": "failed"
+      }
+    },
+    {
+      "name": "graphify",
+      "display_name": "Graphify",
+      "description": "Turn code, schemas, docs, images into queryable knowledge graphs",
+      "category": "community",
+      "author": "graphify",
+      "stars": 44200,
+      "homepage": "https://github.com/graphify/graphify",
+      "tags": [
+        "knowledge-graph",
+        "code-analysis"
+      ],
+      "source": {
+        "type": "github_single",
+        "repo_url": "https://github.com/graphify/graphify",
+        "repo_ref": "main",
+        "commit_sha": "",
+        "subdir": null,
+        "version": "",
+        "last_sync_at": "",
         "last_sync_status": "pending"
       }
     },
     {
       "name": "pm-skills",
       "display_name": "PM Skills",
-      "description": "100+ agentic skills for PM: discovery, strategy, execution, launch, growth",
+      "description": "100+ agentic PM skills: discovery, strategy, execution, launch, growth",
       "category": "community",
       "author": "pm-skills",
       "stars": 10900,
-      "homepage": "https://github.com/pm-skills/pm-skills",
+      "homepage": "https://github.com/ykdojo/pm-skills",
       "tags": [
         "project-management",
         "pm"
       ],
       "source": {
         "type": "github_single",
-        "repo_url": "https://github.com/pm-skills/pm-skills",
+        "repo_url": "https://github.com/ykdojo/pm-skills",
         "repo_ref": "main",
         "commit_sha": "",
         "subdir": null,
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
+        "version": "",
+        "last_sync_at": "",
         "last_sync_status": "pending"
       }
     },
     {
       "name": "aws-skills",
       "display_name": "AWS Skills",
-      "description": "AWS development with CDK best practices, cost optimization, serverless patterns",
+      "description": "AWS CDK best practices, cost optimization MCP, serverless/event-driven architecture",
       "category": "community",
       "author": "zxkane",
       "stars": 9000,
@@ -585,15 +275,15 @@
         "repo_ref": "main",
         "commit_sha": "",
         "subdir": null,
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "pending"
+        "version": "",
+        "last_sync_at": "",
+        "last_sync_status": "failed"
       }
     },
     {
       "name": "claude-red",
       "display_name": "Claude Red",
-      "description": "Curated library of offensive security skills for authorized red-team engagements",
+      "description": "Offensive security skills for authorized red-team and bug-bounty engagements",
       "category": "security",
       "author": "claude-red",
       "stars": 1100,
@@ -605,37 +295,61 @@
       ],
       "source": {
         "type": "github_single",
-        "repo_url": "https://github.com/claude-red/Claude-Red",
+        "repo_url": "https://github.com/jthack/claude-red",
         "repo_ref": "main",
         "commit_sha": "",
         "subdir": null,
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
+        "version": "",
+        "last_sync_at": "",
         "last_sync_status": "pending"
       }
     },
     {
-      "name": "raptor",
-      "display_name": "Raptor",
-      "description": "AI offensive/defensive security agent for adversarial thinking and research",
-      "category": "security",
-      "author": "raptor",
-      "stars": 2400,
-      "homepage": "https://github.com/raptor/raptor",
+      "name": "drawio-skill",
+      "display_name": "Drawio Skill",
+      "description": "Generate draw.io diagrams from natural language, export to PNG/SVG/PDF",
+      "category": "community",
+      "author": "drawio-skill",
+      "stars": 1200,
+      "homepage": "https://github.com/drawio-skill/drawio-skill",
       "tags": [
-        "security",
-        "adversarial",
-        "ai"
+        "diagram",
+        "drawio",
+        "visualization"
       ],
       "source": {
         "type": "github_single",
-        "repo_url": "https://github.com/raptor/raptor",
+        "repo_url": "https://github.com/drawio-skill/drawio-skill",
         "repo_ref": "main",
         "commit_sha": "",
         "subdir": null,
-        "version": "1.0.0",
-        "last_sync_at": "2026-05-07T08:00:00Z",
+        "version": "",
+        "last_sync_at": "",
         "last_sync_status": "pending"
+      }
+    },
+    {
+      "name": "great_cto",
+      "display_name": "Great CTO",
+      "description": "7 specialized sub-agents for full SDLC: architecture, TDD, code review, QA, security, devops, project audit",
+      "category": "community",
+      "author": "avelikiy",
+      "stars": 1500,
+      "homepage": "https://github.com/avelikiy/great_cto",
+      "tags": [
+        "sdlc",
+        "development",
+        "code-review"
+      ],
+      "source": {
+        "type": "github_single",
+        "repo_url": "https://github.com/avelikiy/great_cto",
+        "repo_ref": "main",
+        "commit_sha": "",
+        "subdir": null,
+        "version": "",
+        "last_sync_at": "",
+        "last_sync_status": "failed"
       }
     }
   ],
