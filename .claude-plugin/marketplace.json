@@ -7,30 +7,6 @@
   },
   "plugins": [
     {
-      "name": "hello-world",
-      "description": "一个简单的测试插件，用于演示插件市场功能",
-      "category": "demo",
-      "source": "./plugins/hello-world/.claude-plugin"
-    },
-    {
-      "name": "auto-push-test",
-      "description": "测试自动推送到GitHub功能",
-      "category": "test",
-      "source": "./plugins/auto-push-test/.claude-plugin"
-    },
-    {
-      "name": "push-test-v2",
-      "description": "第二轮测试自动推送功能",
-      "category": "test",
-      "source": "./plugins/push-test-v2/.claude-plugin"
-    },
-    {
-      "name": "hello-world2",
-      "description": "hello-world2",
-      "category": "demo",
-      "source": "./plugins/hello-world2/.claude-plugin"
-    },
-    {
       "name": "andrej-karpathy-skills",
       "description": "Behavioral guidelines to reduce common LLM coding mistakes, derived from Andrej Karpathy's observations on LLM coding pitfalls",
       "category": "community",
@@ -59,6 +35,12 @@
       "description": "Memory compression system for Claude Code - persist context across sessions",
       "category": "community",
       "source": "./plugins/claude-mem/.claude-plugin"
+    },
+    {
+      "name": "career-ops",
+      "description": "AI job search command center — evaluate offers, generate CVs, scan portals, track applications",
+      "category": "community",
+      "source": "./plugins/career-ops/.claude-plugin"
     }
   ]
 }

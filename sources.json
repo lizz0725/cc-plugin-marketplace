@@ -1,59 +1,7 @@
 {
   "version": "1",
-  "last_updated": "2026-05-07T16:25:27Z",
+  "last_updated": "2026-05-09T09:05:14Z",
   "plugins": [
-    {
-      "name": "hello-world",
-      "display_name": "Hello World",
-      "description": "测试插件 - 演示插件市场功能",
-      "category": "demo",
-      "author": "internal",
-      "stars": 0,
-      "source": {
-        "type": "manual",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "success"
-      }
-    },
-    {
-      "name": "auto-push-test",
-      "display_name": "Auto Push Test",
-      "description": "测试自动推送到GitHub功能",
-      "category": "test",
-      "author": "internal",
-      "stars": 0,
-      "source": {
-        "type": "manual",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "success"
-      }
-    },
-    {
-      "name": "push-test-v2",
-      "display_name": "Push Test V2",
-      "description": "第二轮测试自动推送功能",
-      "category": "test",
-      "author": "internal",
-      "stars": 0,
-      "source": {
-        "type": "manual",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "success"
-      }
-    },
-    {
-      "name": "hello-world2",
-      "display_name": "Hello World 2",
-      "description": "测试插件 - 第二个版本",
-      "category": "demo",
-      "author": "internal",
-      "stars": 0,
-      "source": {
-        "type": "manual",
-        "last_sync_at": "2026-05-07T08:00:00Z",
-        "last_sync_status": "success"
-      }
-    },
     {
       "name": "karpathy-skills",
       "display_name": "Karpathy Guidelines",
@@ -74,8 +22,8 @@
         "commit_sha": "2c606141936f1eeef17fa3043a72095b4765b9c2",
         "subdir": null,
         "version": "",
-        "last_sync_at": "2026-05-07T15:17:57Z",
-        "last_sync_status": "success"
+        "last_sync_at": "2026-05-09T02:47:41Z",
+        "last_sync_status": "unchanged"
       }
     },
     {
@@ -98,8 +46,8 @@
         "commit_sha": "ef6050c5e1848b6880ff47c32ade1a608a64f85e",
         "subdir": null,
         "version": "",
-        "last_sync_at": "2026-05-07T15:18:04Z",
-        "last_sync_status": "success"
+        "last_sync_at": "2026-05-09T02:47:49Z",
+        "last_sync_status": "unchanged"
       }
     },
     {
@@ -122,8 +70,8 @@
         "commit_sha": "b7e3af80f6e331f6fb456667b82b12cade7c9d35",
         "subdir": null,
         "version": "",
-        "last_sync_at": "2026-05-07T15:20:07Z",
-        "last_sync_status": "success"
+        "last_sync_at": "2026-05-09T02:49:33Z",
+        "last_sync_status": "unchanged"
       }
     },
     {
@@ -146,8 +94,8 @@
         "commit_sha": "841beea45cb25ba51f29fa45b7e272938d19b80a",
         "subdir": null,
         "version": "",
-        "last_sync_at": "2026-05-07T16:11:26Z",
-        "last_sync_status": "success"
+        "last_sync_at": "2026-05-09T08:58:55Z",
+        "last_sync_status": "unchanged"
       }
     },
     {
@@ -170,8 +118,8 @@
         "commit_sha": "1cd545c36cabf59e219071f9f344df2a3592f3e7",
         "subdir": null,
         "version": "",
-        "last_sync_at": "2026-05-07T15:30:33Z",
-        "last_sync_status": "success"
+        "last_sync_at": "2026-05-09T08:59:47Z",
+        "last_sync_status": "unchanged"
       }
     },
     {
@@ -190,11 +138,11 @@
         "type": "github_single",
         "repo_url": "https://github.com/santifer/career-ops",
         "repo_ref": "main",
-        "commit_sha": "",
+        "commit_sha": "8e554cc4437c3a58e813378abb9b35e2e08a007e",
         "subdir": null,
         "version": "",
-        "last_sync_at": "",
-        "last_sync_status": "pending"
+        "last_sync_at": "2026-05-09T08:59:53Z",
+        "last_sync_status": "unchanged"
       }
     }
   ],
