@@ -1,8 +1,0 @@
-{
-  "name": "hello-world",
-  "source": {
-    "type": "manual",
-    "last_sync_at": "2026-05-07T08:00:00Z"
-  },
-  "installed_path": "./plugins/hello-world/.claude-plugin"
-}
