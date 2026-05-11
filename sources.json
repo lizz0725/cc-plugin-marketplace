@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "last_updated": "2026-05-09T09:05:14Z",
+  "last_updated": "2026-05-11T15:14:37Z",
   "plugins": [
     {
       "name": "karpathy-skills",
@@ -47,7 +47,7 @@
         "subdir": null,
         "version": "",
         "last_sync_at": "2026-05-09T02:47:49Z",
-        "last_sync_status": "unchanged"
+        "last_sync_status": "failed"
       }
     },
     {
@@ -91,11 +91,11 @@
         "type": "github_single",
         "repo_url": "https://github.com/affaan-m/everything-claude-code",
         "repo_ref": "main",
-        "commit_sha": "841beea45cb25ba51f29fa45b7e272938d19b80a",
+        "commit_sha": "c7c1e366256efb233cfa796d2625e5980e87199c",
         "subdir": null,
         "version": "",
-        "last_sync_at": "2026-05-09T08:58:55Z",
-        "last_sync_status": "unchanged"
+        "last_sync_at": "2026-05-11T15:14:07Z",
+        "last_sync_status": "success"
       }
     },
     {
@@ -142,6 +142,73 @@
         "subdir": null,
         "version": "",
         "last_sync_at": "2026-05-09T08:59:53Z",
+        "last_sync_status": "unchanged"
+      }
+    },
+    {
+      "name": "document-skills",
+      "display_name": "Document Skills",
+      "description": "Collection of document processing suite including Excel, Word, PowerPoint, and PDF capabilities",
+      "category": "community",
+      "author": "Anthropic",
+      "stars": 0,
+      "tags": [
+        "document",
+        "xlsx",
+        "docx",
+        "pptx",
+        "pdf"
+      ],
+      "source": {
+        "type": "github_marketplace",
+        "repo_url": "https://github.com/anthropics/skills",
+        "repo_ref": "main",
+        "marketplace_plugin_name": "document-skills",
+        "commit_sha": "f458cee31a7577a47ba0c9a101976fa599385174",
+        "last_sync_at": "2026-05-11T14:28:32Z",
+        "last_sync_status": "unchanged"
+      }
+    },
+    {
+      "name": "example-skills",
+      "display_name": "Example Skills",
+      "description": "Collection of example skills demonstrating various capabilities including skill creation, MCP building, visual design, algorithmic art, internal communications, web testing, artifact building, Slack GIFs, and theme styling",
+      "category": "community",
+      "author": "Anthropic",
+      "stars": 0,
+      "tags": [
+        "examples",
+        "skills"
+      ],
+      "source": {
+        "type": "github_marketplace",
+        "repo_url": "https://github.com/anthropics/skills",
+        "repo_ref": "main",
+        "marketplace_plugin_name": "example-skills",
+        "commit_sha": "f458cee31a7577a47ba0c9a101976fa599385174",
+        "last_sync_at": "2026-05-11T14:29:11Z",
+        "last_sync_status": "unchanged"
+      }
+    },
+    {
+      "name": "claude-api",
+      "display_name": "Claude API",
+      "description": "Claude API and SDK documentation skill for building LLM-powered applications",
+      "category": "community",
+      "author": "Anthropic",
+      "stars": 0,
+      "tags": [
+        "api",
+        "claude",
+        "sdk"
+      ],
+      "source": {
+        "type": "github_marketplace",
+        "repo_url": "https://github.com/anthropics/skills",
+        "repo_ref": "main",
+        "marketplace_plugin_name": "claude-api",
+        "commit_sha": "f458cee31a7577a47ba0c9a101976fa599385174",
+        "last_sync_at": "2026-05-11T14:29:34Z",
         "last_sync_status": "unchanged"
       }
     }

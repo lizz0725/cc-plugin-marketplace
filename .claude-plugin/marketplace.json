@@ -25,8 +25,8 @@
       "source": "./plugins/ui-ux-pro-max/.claude-plugin"
     },
     {
-      "name": "everything-claude-code",
-      "description": "Battle-tested Claude Code plugin for engineering teams — 48 agents, 182 skills, 68 legacy command shims, production-ready hooks, and selective install workflows evolved through continuous real-world use",
+      "name": "ecc",
+      "description": "Battle-tested Claude Code plugin for engineering teams — 53 agents, 200 skills, 69 legacy command shims, production-ready hooks, and selective install workflows evolved through continuous real-world use",
       "category": "community",
       "source": "./plugins/everything-claude-code/.claude-plugin"
     },
@@ -41,6 +41,24 @@
       "description": "AI job search command center — evaluate offers, generate CVs, scan portals, track applications",
       "category": "community",
       "source": "./plugins/career-ops/.claude-plugin"
+    },
+    {
+      "name": "document-skills",
+      "description": "Collection of document processing suite including Excel, Word, PowerPoint, and PDF capabilities",
+      "category": "community",
+      "source": "./plugins/document-skills/.claude-plugin"
+    },
+    {
+      "name": "example-skills",
+      "description": "Collection of example skills demonstrating various capabilities including skill creation, MCP building, visual design, algorithmic art, internal communications, web testing, artifact building, Slack GIFs, and theme styling",
+      "category": "community",
+      "source": "./plugins/example-skills/.claude-plugin"
+    },
+    {
+      "name": "claude-api",
+      "description": "Claude API and SDK documentation skill for building LLM-powered applications",
+      "category": "community",
+      "source": "./plugins/claude-api/.claude-plugin"
     }
   ]
 }

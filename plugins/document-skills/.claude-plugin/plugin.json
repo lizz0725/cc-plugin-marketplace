@@ -1,0 +1,14 @@
+{
+  "name": "document-skills",
+  "description": "Collection of document processing suite including Excel, Word, PowerPoint, and PDF capabilities",
+  "author": {
+    "name": "Keith Lazuka",
+    "email": "klazuka@anthropic.com"
+  },
+  "skills": [
+    "./skills/xlsx",
+    "./skills/docx",
+    "./skills/pptx",
+    "./skills/pdf"
+  ]
+}

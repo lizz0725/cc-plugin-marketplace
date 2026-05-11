@@ -1,0 +1,11 @@
+{
+  "name": "claude-api",
+  "source": {
+    "type": "github_marketplace",
+    "repo_url": "https://github.com/anthropics/skills",
+    "marketplace_plugin_name": "claude-api",
+    "commit_sha": "f458cee31a7577a47ba0c9a101976fa599385174",
+    "last_sync_at": "2026-05-11T14:29:34Z"
+  },
+  "installed_path": "./plugins/claude-api/.claude-plugin"
+}
