@@ -26,7 +26,7 @@
     },
     {
       "name": "ecc",
-      "description": "Battle-tested Claude Code plugin for engineering teams — 53 agents, 200 skills, 69 legacy command shims, production-ready hooks, and selective install workflows evolved through continuous real-world use",
+      "description": "Battle-tested Claude Code plugin for engineering teams — 53 agents, 202 skills, 69 legacy command shims, production-ready hooks, and selective install workflows evolved through continuous real-world use",
       "category": "community",
       "source": "./plugins/everything-claude-code/.claude-plugin"
     },
@@ -35,12 +35,6 @@
       "description": "Memory compression system for Claude Code - persist context across sessions",
       "category": "community",
       "source": "./plugins/claude-mem/.claude-plugin"
-    },
-    {
-      "name": "career-ops",
-      "description": "AI job search command center — evaluate offers, generate CVs, scan portals, track applications",
-      "category": "community",
-      "source": "./plugins/career-ops/.claude-plugin"
     },
     {
       "name": "document-skills",

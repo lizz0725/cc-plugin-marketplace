@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "last_updated": "2026-05-11T15:14:37Z",
+  "last_updated": "2026-05-11T16:14:37Z",
   "plugins": [
     {
       "name": "karpathy-skills",
@@ -43,11 +43,11 @@
         "type": "github_single",
         "repo_url": "https://github.com/JuliusBrussee/caveman",
         "repo_ref": "main",
-        "commit_sha": "ef6050c5e1848b6880ff47c32ade1a608a64f85e",
+        "commit_sha": "754795ada42dea54adf061d42a61e560caa4f9ce",
         "subdir": null,
         "version": "",
-        "last_sync_at": "2026-05-09T02:47:49Z",
-        "last_sync_status": "failed"
+        "last_sync_at": "2026-05-11T16:13:23Z",
+        "last_sync_status": "success"
       }
     },
     {
@@ -91,10 +91,10 @@
         "type": "github_single",
         "repo_url": "https://github.com/affaan-m/everything-claude-code",
         "repo_ref": "main",
-        "commit_sha": "c7c1e366256efb233cfa796d2625e5980e87199c",
+        "commit_sha": "8926ea925e6fac3988fbb8d5097e7fe94f211798",
         "subdir": null,
         "version": "",
-        "last_sync_at": "2026-05-11T15:14:07Z",
+        "last_sync_at": "2026-05-11T16:14:03Z",
         "last_sync_status": "success"
       }
     },
@@ -119,29 +119,6 @@
         "subdir": null,
         "version": "",
         "last_sync_at": "2026-05-09T08:59:47Z",
-        "last_sync_status": "unchanged"
-      }
-    },
-    {
-      "name": "career-ops",
-      "display_name": "Career Ops",
-      "description": "AI-powered job search: 14 skill modes, Go dashboard, PDF generation, batch processing",
-      "category": "community",
-      "author": "santifer",
-      "stars": 43200,
-      "homepage": "https://github.com/santifer/career-ops",
-      "tags": [
-        "career",
-        "job-search"
-      ],
-      "source": {
-        "type": "github_single",
-        "repo_url": "https://github.com/santifer/career-ops",
-        "repo_ref": "main",
-        "commit_sha": "8e554cc4437c3a58e813378abb9b35e2e08a007e",
-        "subdir": null,
-        "version": "",
-        "last_sync_at": "2026-05-09T08:59:53Z",
         "last_sync_status": "unchanged"
       }
     },
