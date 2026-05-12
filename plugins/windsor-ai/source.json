@@ -1,0 +1,11 @@
+{
+  "name": "windsor-ai",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/windsor-ai/claude-windsor-ai-plugin.git",
+    "commit_sha": "248a6994b15b410cc025b105bb4ed5558e9b1af9",
+    "subdir": null,
+    "last_sync_at": "2026-05-12T09:57:15Z"
+  },
+  "installed_path": "./plugins/windsor-ai/.claude-plugin"
+}

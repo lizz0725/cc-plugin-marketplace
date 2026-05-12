@@ -1,0 +1,11 @@
+{
+  "name": "qt-development-skills",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/TheQtCompanyRnD/agent-skills.git",
+    "commit_sha": "24e77fd4ce529adceb8d4c259eb93196a4ef3d9f",
+    "subdir": null,
+    "last_sync_at": "2026-05-12T09:55:34Z"
+  },
+  "installed_path": "./plugins/qt-development-skills/.claude-plugin"
+}

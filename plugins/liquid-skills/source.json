@@ -1,0 +1,11 @@
+{
+  "name": "liquid-skills",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/Shopify/liquid-skills.git",
+    "commit_sha": "ae3e4cc3f454923e388bbd841fd931f0c7bf5be4",
+    "subdir": "plugins/liquid-skills",
+    "last_sync_at": "2026-05-12T10:14:07Z"
+  },
+  "installed_path": "./plugins/liquid-skills/.claude-plugin"
+}

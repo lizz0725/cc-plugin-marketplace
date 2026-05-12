@@ -1,0 +1,11 @@
+{
+  "name": "coderabbit",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/coderabbitai/skills.git",
+    "commit_sha": "a81eb76a1539e4a3f2b5c6fc133849124e72d303",
+    "subdir": null,
+    "last_sync_at": "2026-05-12T09:52:48Z"
+  },
+  "installed_path": "./plugins/coderabbit/.claude-plugin"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qdrant-skills",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/qdrant/skills.git",
+    "commit_sha": "9f935f8bbb13ec62a07f0da0d42e89722029fb25",
+    "subdir": null,
+    "last_sync_at": "2026-05-12T10:01:52Z"
+  },
+  "installed_path": "./plugins/qdrant-skills/.claude-plugin"
+}

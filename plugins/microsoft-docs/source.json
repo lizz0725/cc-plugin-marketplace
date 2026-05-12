@@ -1,0 +1,11 @@
+{
+  "name": "microsoft-docs",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/MicrosoftDocs/mcp.git",
+    "commit_sha": "caa3d670bf2814171dba4f7346ece5080964021e",
+    "subdir": null,
+    "last_sync_at": "2026-05-12T09:54:36Z"
+  },
+  "installed_path": "./plugins/microsoft-docs/.claude-plugin"
+}

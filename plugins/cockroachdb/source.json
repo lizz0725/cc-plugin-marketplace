@@ -1,0 +1,11 @@
+{
+  "name": "cockroachdb",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/cockroachdb/claude-plugin.git",
+    "commit_sha": "08e96cc090f9a5adee75fc0a220dd558bd17b67a",
+    "subdir": null,
+    "last_sync_at": "2026-05-12T09:52:31Z"
+  },
+  "installed_path": "./plugins/cockroachdb/.claude-plugin"
+}

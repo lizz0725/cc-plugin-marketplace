@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-ai",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/pydantic/skills.git",
+    "commit_sha": "92bd097356e1a4947f815449fb3570a9a5cfc21b",
+    "subdir": "plugins/ai",
+    "last_sync_at": "2026-05-12T10:01:42Z"
+  },
+  "installed_path": "./plugins/pydantic-ai/.claude-plugin"
+}

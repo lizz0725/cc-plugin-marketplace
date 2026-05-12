@@ -1,0 +1,11 @@
+{
+  "name": "youdotcom-agent-skills",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/youdotcom-oss/agent-skills.git",
+    "commit_sha": "4712250ae8e5ce3095cad3b43b62b33608888863",
+    "subdir": null,
+    "last_sync_at": "2026-05-12T09:57:28Z"
+  },
+  "installed_path": "./plugins/youdotcom-agent-skills/.claude-plugin"
+}

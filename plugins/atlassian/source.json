@@ -1,0 +1,11 @@
+{
+  "name": "atlassian",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/atlassian/atlassian-mcp-server.git",
+    "commit_sha": "9b52fb18e184edc307ce33f8bf4cdf148dedf1f2",
+    "subdir": null,
+    "last_sync_at": "2026-05-12T09:51:20Z"
+  },
+  "installed_path": "./plugins/atlassian/.claude-plugin"
+}

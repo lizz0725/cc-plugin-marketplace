@@ -1,0 +1,9 @@
+{
+  "name": "mintlify",
+  "version": "1.0.0",
+  "description": "Comprehensive skill for building Mintlify documentation sites.",
+  "author": {
+    "name": "Mintlify"
+  },
+  "skills": ["./skills/mintlify"]
+}

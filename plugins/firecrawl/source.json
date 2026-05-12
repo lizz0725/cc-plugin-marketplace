@@ -1,0 +1,11 @@
+{
+  "name": "firecrawl",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/firecrawl/firecrawl-claude-plugin.git",
+    "commit_sha": "122a6ae6cefb4393c2c30740aee55ba02532ccdc",
+    "subdir": null,
+    "last_sync_at": "2026-05-12T09:54:05Z"
+  },
+  "installed_path": "./plugins/firecrawl/.claude-plugin"
+}

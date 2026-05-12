@@ -1,0 +1,11 @@
+{
+  "name": "oracle-ai-data-platform-workbench-spark-connectors",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/oracle-samples/oracle-aidp-samples.git",
+    "commit_sha": "15c7b5627f21a5adb2623895c5e032ff4d9fbc69",
+    "subdir": "ai/claude-code-plugins/oracle-ai-data-platform-workbench-spark-connectors",
+    "last_sync_at": "2026-05-12T10:14:57Z"
+  },
+  "installed_path": "./plugins/oracle-ai-data-platform-workbench-spark-connectors/.claude-plugin"
+}

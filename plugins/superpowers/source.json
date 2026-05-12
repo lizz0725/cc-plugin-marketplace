@@ -1,0 +1,11 @@
+{
+  "name": "superpowers",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/obra/superpowers.git",
+    "commit_sha": "f2cbfbefebbfef77321e4c9abc9e949826bea9d7",
+    "subdir": null,
+    "last_sync_at": "2026-05-12T09:56:49Z"
+  },
+  "installed_path": "./plugins/superpowers/.claude-plugin"
+}

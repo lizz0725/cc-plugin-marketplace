@@ -41,6 +41,330 @@
       "description": "Collection of example skills demonstrating various capabilities including skill creation, MCP building, visual design, algorithmic art, internal communications, web testing, artifact building, Slack GIFs, and theme styling",
       "category": "community",
       "source": "./plugins/example-skills/.claude-plugin"
+    },
+    {
+      "name": "agent-sdk-dev",
+      "description": "Claude Agent SDK Development Plugin",
+      "category": "development",
+      "source": "./plugins/agent-sdk-dev/.claude-plugin"
+    },
+    {
+      "name": "claude-code-setup",
+      "description": "Analyze codebases and recommend tailored Claude Code automations such as hooks, skills, MCP servers, and subagents.",
+      "category": "productivity",
+      "source": "./plugins/claude-code-setup/.claude-plugin"
+    },
+    {
+      "name": "claude-md-management",
+      "description": "Tools to maintain and improve CLAUDE.md files - audit quality, capture session learnings, and keep project memory current.",
+      "category": "productivity",
+      "source": "./plugins/claude-md-management/.claude-plugin"
+    },
+    {
+      "name": "code-modernization",
+      "description": "Modernize legacy codebases (COBOL, legacy Java/C++, monolith web apps) with a structured assess → map → extract-rules → reimagine → transform → harden workflow and specialist review agents",
+      "category": "development",
+      "source": "./plugins/code-modernization/.claude-plugin"
+    },
+    {
+      "name": "code-review",
+      "description": "Automated code review for pull requests using multiple specialized agents with confidence-based scoring",
+      "category": "productivity",
+      "source": "./plugins/code-review/.claude-plugin"
+    },
+    {
+      "name": "code-simplifier",
+      "description": "Agent that simplifies and refines code for clarity, consistency, and maintainability while preserving functionality",
+      "category": "productivity",
+      "source": "./plugins/code-simplifier/.claude-plugin"
+    },
+    {
+      "name": "commit-commands",
+      "description": "Streamline your git workflow with simple commands for committing, pushing, and creating pull requests",
+      "category": "productivity",
+      "source": "./plugins/commit-commands/.claude-plugin"
+    },
+    {
+      "name": "cwc-makers",
+      "description": "Seamless onboarding for the Code-with-Claude Makers Cardputer: one /maker-setup command clones the build-with-claude repo, flashes UIFlow firmware, and installs the Claude Buddy app bundle onto a freshly-plugged-in M5Stack Cardputer-Adv.",
+      "category": "productivity",
+      "source": "./plugins/cwc-makers/.claude-plugin"
+    },
+    {
+      "name": "explanatory-output-style",
+      "description": "Adds educational insights about implementation choices and codebase patterns (mimics the deprecated Explanatory output style)",
+      "category": "learning",
+      "source": "./plugins/explanatory-output-style/.claude-plugin"
+    },
+    {
+      "name": "feature-dev",
+      "description": "Comprehensive feature development workflow with specialized agents for codebase exploration, architecture design, and quality review",
+      "category": "development",
+      "source": "./plugins/feature-dev/.claude-plugin"
+    },
+    {
+      "name": "frontend-design",
+      "description": "Frontend design skill for UI/UX implementation",
+      "category": "development",
+      "source": "./plugins/frontend-design/.claude-plugin"
+    },
+    {
+      "name": "hookify",
+      "description": "Easily create hooks to prevent unwanted behaviors by analyzing conversation patterns",
+      "category": "productivity",
+      "source": "./plugins/hookify/.claude-plugin"
+    },
+    {
+      "name": "learning-output-style",
+      "description": "Interactive learning mode that requests meaningful code contributions at decision points (mimics the unshipped Learning output style)",
+      "category": "learning",
+      "source": "./plugins/learning-output-style/.claude-plugin"
+    },
+    {
+      "name": "math-olympiad",
+      "description": "Solve competition math (IMO, Putnam, USAMO) with adversarial verification that catches what self-verification misses. Fresh-context verifiers attack proofs with specific failure patterns. Calibrated abstention over bluffing.",
+      "category": "math",
+      "source": "./plugins/math-olympiad/.claude-plugin"
+    },
+    {
+      "name": "mcp-server-dev",
+      "description": "Skills for designing and building MCP servers that work seamlessly with Claude — guides you through deployment models (remote HTTP, MCPB, local), tool design patterns, auth, and interactive MCP apps.",
+      "category": "development",
+      "source": "./plugins/mcp-server-dev/.claude-plugin"
+    },
+    {
+      "name": "playground",
+      "description": "Creates interactive HTML playgrounds — self-contained single-file explorers with visual controls, live preview, and prompt output with copy button",
+      "category": "development",
+      "source": "./plugins/playground/.claude-plugin"
+    },
+    {
+      "name": "plugin-dev",
+      "description": "Plugin development toolkit with skills for creating agents, commands, hooks, MCP integrations, and comprehensive plugin structure guidance",
+      "category": "development",
+      "source": "./plugins/plugin-dev/.claude-plugin"
+    },
+    {
+      "name": "pr-review-toolkit",
+      "description": "Comprehensive PR review agents specializing in comments, tests, error handling, type design, code quality, and code simplification",
+      "category": "productivity",
+      "source": "./plugins/pr-review-toolkit/.claude-plugin"
+    },
+    {
+      "name": "ralph-loop",
+      "description": "Continuous self-referential AI loops for interactive iterative development, implementing the Ralph Wiggum technique. Run Claude in a while-true loop with the same prompt until task completion.",
+      "category": "development",
+      "source": "./plugins/ralph-loop/.claude-plugin"
+    },
+    {
+      "name": "security-guidance",
+      "description": "Security reminder hook that warns about potential security issues when editing files, including command injection, XSS, and unsafe code patterns",
+      "category": "security",
+      "source": "./plugins/security-guidance/.claude-plugin"
+    },
+    {
+      "name": "skill-creator",
+      "description": "Create new skills, improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, update or optimize an existing skill, run evals to test a skill, or benchmark skill performance with variance analysis.",
+      "category": "development",
+      "source": "./plugins/skill-creator/.claude-plugin"
+    },
+    {
+      "name": "context7",
+      "description": "Upstash Context7 MCP server for up-to-date documentation lookup. Pull version-specific documentation and code examples directly from source repositories into your LLM context.",
+      "category": "development",
+      "source": "./plugins/context7/.claude-plugin"
+    },
+    {
+      "name": "gitlab",
+      "description": "GitLab DevOps platform integration. Manage repositories, merge requests, CI/CD pipelines, issues, and wikis. Full access to GitLab's comprehensive DevOps lifecycle tools.",
+      "category": "productivity",
+      "source": "./plugins/gitlab/.claude-plugin"
+    },
+    {
+      "name": "greptile",
+      "description": "AI code review agent for GitHub and GitLab. View and resolve Greptile's PR review comments directly from Claude Code.",
+      "category": "development",
+      "source": "./plugins/greptile/.claude-plugin"
+    },
+    {
+      "name": "laravel-boost",
+      "description": "Laravel development toolkit MCP server. Provides intelligent assistance for Laravel applications including Artisan commands, Eloquent queries, routing, migrations, and framework-specific code generation.",
+      "category": "development",
+      "source": "./plugins/laravel-boost/.claude-plugin"
+    },
+    {
+      "name": "playwright",
+      "description": "Browser automation and end-to-end testing MCP server by Microsoft. Enables Claude to interact with web pages, take screenshots, fill forms, click elements, and perform automated browser testing workflows.",
+      "category": "testing",
+      "source": "./plugins/playwright/.claude-plugin"
+    },
+    {
+      "name": "serena",
+      "description": "Semantic code analysis MCP server providing intelligent code understanding, refactoring suggestions, and codebase navigation through language server protocol integration.",
+      "category": "development",
+      "source": "./plugins/serena/.claude-plugin"
+    },
+    {
+      "name": "terraform",
+      "description": "The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.",
+      "category": "development",
+      "source": "./plugins/terraform/.claude-plugin"
+    },
+    {
+      "name": "atlassian",
+      "description": "Connect to Atlassian products including Jira and Confluence. Search and create issues, access documentation, manage sprints, and integrate your development workflow with Atlassian's collaboration tools.",
+      "category": "productivity",
+      "source": "./plugins/atlassian/.claude-plugin"
+    },
+    {
+      "name": "base44",
+      "description": "Build and deploy Base44 full-stack apps with CLI project management and JavaScript/TypeScript SDK development skills",
+      "category": "development",
+      "source": "./plugins/base44/.claude-plugin"
+    },
+    {
+      "name": "box",
+      "description": "Box Plugin for Claude Code to help with Box Platform integrations including content workflows, shared links, webhooks, metadata, and Box AI retrieval.",
+      "category": "productivity",
+      "source": "./plugins/box/.claude-plugin"
+    },
+    {
+      "name": "chrome-devtools-mcp",
+      "description": "Reliable automation, in-depth debugging, and performance analysis in Chrome using Chrome DevTools and Puppeteer",
+      "category": "development",
+      "source": "./plugins/chrome-devtools-mcp/.claude-plugin"
+    },
+    {
+      "name": "clickhouse",
+      "description": "ClickHouse Claude Code plugin: skills (ClickHouse best practices), rules and MCP.",
+      "category": "database",
+      "source": "./plugins/clickhouse/.claude-plugin"
+    },
+    {
+      "name": "cockroachdb",
+      "description": "Connect Claude Code directly to your CockroachDB clusters for hands-on database work — explore schemas, write optimized SQL, debug queries, and manage distributed database clusters. This plugin provides tools across two active MCP backends (self-hosted MCP Toolbox and managed CockroachDB Cloud MCP Server), three specialized agents (DBA, Developer, Operator), skills across multiple operational domains, and built-in safety hooks.",
+      "category": "database",
+      "source": "./plugins/cockroachdb/.claude-plugin"
+    },
+    {
+      "name": "coderabbit",
+      "description": "AI-powered code review in Claude Code, powered by CodeRabbit",
+      "category": "productivity",
+      "source": "./plugins/coderabbit/.claude-plugin"
+    },
+    {
+      "name": "desktop-commander",
+      "description": "MCP server for terminal commands, process management, and file operations across text, code, PDF, DOCX, Excel, images, and structured data",
+      "category": "productivity",
+      "source": "./plugins/desktop-commander/.claude-plugin"
+    },
+    {
+      "name": "expo",
+      "description": "Official Expo skills for building, deploying, upgrading, and debugging Expo apps",
+      "category": "development",
+      "source": "./plugins/expo/.claude-plugin"
+    },
+    {
+      "name": "firecrawl",
+      "description": "Scrape, search, crawl, and map the web with a single command.",
+      "category": "development",
+      "source": "./plugins/firecrawl/.claude-plugin"
+    },
+    {
+      "name": "liquid-lsp",
+      "description": "LSP integration for Shopify Liquid templates via the Shopify CLI theme language server",
+      "category": "development",
+      "source": "./plugins/liquid-lsp/.claude-plugin"
+    },
+    {
+      "name": "liquid-skills",
+      "description": "Liquid language fundamentals, CSS/JS/HTML coding standards, and WCAG accessibility patterns for Shopify themes",
+      "category": "development",
+      "source": "./plugins/liquid-skills/.claude-plugin"
+    },
+    {
+      "name": "microsoft-docs",
+      "description": "Access official Microsoft documentation, API references, and code samples for Azure, .NET, Windows, and more.",
+      "category": "development",
+      "source": "./plugins/microsoft-docs/.claude-plugin"
+    },
+    {
+      "name": "mintlify",
+      "description": "Comprehensive skill for building Mintlify documentation sites.",
+      "category": "development",
+      "source": "./plugins/mintlify/.claude-plugin"
+    },
+    {
+      "name": "mongodb",
+      "description": "Official Claude plugin for MongoDB (MCP Server + Skills). Connect to databases, explore data, manage collections, optimize queries, generate reliable code, implement best practices, develop advanced features, and more.",
+      "category": "database",
+      "source": "./plugins/mongodb/.claude-plugin"
+    },
+    {
+      "name": "oracle-ai-data-platform-workbench-spark-connectors",
+      "description": "Oracle AI Data Platform Workbench Spark connectors for Claude Code. 23 connector skills covering every data source workbench customers commonly need: Oracle Autonomous DB family (ALH/ADW/ATP) via wallet/IAM-DB-Token/API-key, generic Oracle Database, ExaCS, Oracle PeopleSoft, Oracle Siebel, Fusion ERP REST, Fusion BICC, EPM Cloud Planning, Essbase 21c, OCI Streaming (Kafka), OCI Object Storage, Apache Iceberg, plus PostgreSQL, MySQL/HeatWave, SQL Server, Apache Hive, Salesforce, Snowflake, Azure ADLS Gen2, AWS S3, generic REST, custom JDBC, and Excel. v0.5.0 adds 5 new connectors plus pushdown.sql / catalog.id / manifest.path patterns from oracle-samples PR #46.",
+      "category": "development",
+      "source": "./plugins/oracle-ai-data-platform-workbench-spark-connectors/.claude-plugin"
+    },
+    {
+      "name": "outputai",
+      "description": "Workflow development tools",
+      "category": "development",
+      "source": "./plugins/outputai/.claude-plugin"
+    },
+    {
+      "name": "ai",
+      "description": "Build production-grade AI agents with Pydantic AI — tools, capabilities, structured output, streaming, and testing patterns",
+      "category": "development",
+      "source": "./plugins/pydantic-ai/.claude-plugin"
+    },
+    {
+      "name": "qdrant",
+      "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage",
+      "category": "database",
+      "source": "./plugins/qdrant-skills/.claude-plugin"
+    },
+    {
+      "name": "qodo-skills",
+      "description": "Shift-left code review skills that bring Qodo's quality standards and code review capabilities into your local development workflow. Catch issues before commit, enforce organizational standards, and resolve PR feedback directly in your agent.",
+      "category": "development",
+      "source": "./plugins/qodo-skills/.claude-plugin"
+    },
+    {
+      "name": "qt-development-skills",
+      "description": "Agentic engineering skills for Qt software development, including Qt C++/QML code review, QML coding, and Qt C++/QML code documentation. Bundles the hosted Qt Documentation MCP server for live Qt API lookups. These skills use AI and can make mistakes. Always double-check the output carefully.",
+      "category": "development",
+      "source": "./plugins/qt-development-skills/.claude-plugin"
+    },
+    {
+      "name": "quarkus-agent",
+      "description": "MCP server for AI coding agents to create, manage, and interact with Quarkus applications. Provides tools for project scaffolding, dev mode lifecycle, extension skills, Dev MCP proxy, and documentation search.",
+      "category": "development",
+      "source": "./plugins/quarkus-agent/.claude-plugin"
+    },
+    {
+      "name": "remember",
+      "description": "Continuous memory for Claude Code. Extracts, summarizes, and compresses conversations into tiered daily logs. Claude remembers what you did yesterday.",
+      "category": "community",
+      "source": "./plugins/remember/.claude-plugin"
+    },
+    {
+      "name": "superpowers",
+      "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
+      "category": "development",
+      "source": "./plugins/superpowers/.claude-plugin"
+    },
+    {
+      "name": "windsor-ai",
+      "description": "Connect Claude Code to 325+ business data sources via Windsor.ai. Query marketing, sales, CRM, ecommerce, finance, and analytics data from Google Ads, Meta, HubSpot, Salesforce, Shopify, Stripe, and hundreds more — directly from your terminal.",
+      "category": "productivity",
+      "source": "./plugins/windsor-ai/.claude-plugin"
+    },
+    {
+      "name": "agent-skills",
+      "description": "You.com agent skills for web search, research with citations, and content extraction. Guided integrations for Vercel AI SDK, Claude Agent SDK, OpenAI Agents SDK, crewAI, LangChain, Microsoft Teams.ai, direct REST API, and bash CLI.",
+      "category": "productivity",
+      "source": "./plugins/youdotcom-agent-skills/.claude-plugin"
     }
   ]
 }

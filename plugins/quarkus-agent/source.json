@@ -1,0 +1,11 @@
+{
+  "name": "quarkus-agent",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/quarkusio/quarkus-agent-mcp.git",
+    "commit_sha": "c17280236a8080aab2bc10ff8e334922a2619a5f",
+    "subdir": null,
+    "last_sync_at": "2026-05-12T09:55:47Z"
+  },
+  "installed_path": "./plugins/quarkus-agent/.claude-plugin"
+}

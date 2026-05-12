@@ -1,0 +1,11 @@
+{
+  "name": "chrome-devtools-mcp",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp.git",
+    "commit_sha": "4b1e5511088b8a5fb333fc61a8b4a51ab022ca7b",
+    "subdir": null,
+    "last_sync_at": "2026-05-12T09:52:06Z"
+  },
+  "installed_path": "./plugins/chrome-devtools-mcp/.claude-plugin"
+}

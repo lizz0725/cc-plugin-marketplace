@@ -1,0 +1,11 @@
+{
+  "name": "remember",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/Digital-Process-Tools/claude-remember.git",
+    "commit_sha": "6a195931add58e68cd6e8563697fabceb1407253",
+    "subdir": null,
+    "last_sync_at": "2026-05-12T09:55:54Z"
+  },
+  "installed_path": "./plugins/remember/.claude-plugin"
+}

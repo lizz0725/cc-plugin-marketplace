@@ -1,0 +1,11 @@
+{
+  "name": "outputai",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/growthxai/output.git",
+    "commit_sha": "c519ca491e30797676c5fd77ac117f66fb23b026",
+    "subdir": "coding_assistants/claude/plugins/outputai",
+    "last_sync_at": "2026-05-12T10:01:29Z"
+  },
+  "installed_path": "./plugins/outputai/.claude-plugin"
+}

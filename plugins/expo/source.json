@@ -1,0 +1,11 @@
+{
+  "name": "expo",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/expo/skills.git",
+    "commit_sha": "47f0ef64821f10e42a600758b5087bfe89c09474",
+    "subdir": "plugins/expo",
+    "last_sync_at": "2026-05-12T10:13:34Z"
+  },
+  "installed_path": "./plugins/expo/.claude-plugin"
+}

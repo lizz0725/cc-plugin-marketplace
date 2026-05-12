@@ -1,0 +1,11 @@
+{
+  "name": "clickhouse",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/ClickHouse/clickhouse-claude-code-plugin.git",
+    "commit_sha": "db1c108dde6e5c81a1ca65f3b6700d6fff288545",
+    "subdir": null,
+    "last_sync_at": "2026-05-12T09:52:19Z"
+  },
+  "installed_path": "./plugins/clickhouse/.claude-plugin"
+}

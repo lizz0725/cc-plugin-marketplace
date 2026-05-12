@@ -1,0 +1,11 @@
+{
+  "name": "box",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/box/box-for-ai.git",
+    "commit_sha": "16f1a0427710b0812519ea634cd5ce6830bde8fc",
+    "subdir": null,
+    "last_sync_at": "2026-05-12T09:51:52Z"
+  },
+  "installed_path": "./plugins/box/.claude-plugin"
+}

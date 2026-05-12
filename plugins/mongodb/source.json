@@ -1,0 +1,11 @@
+{
+  "name": "mongodb",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/mongodb/agent-skills.git",
+    "commit_sha": "5cbde1c81a8c5e18de0952e52ec90808be11283f",
+    "subdir": null,
+    "last_sync_at": "2026-05-12T09:54:54Z"
+  },
+  "installed_path": "./plugins/mongodb/.claude-plugin"
+}

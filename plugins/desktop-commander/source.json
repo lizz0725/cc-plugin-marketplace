@@ -1,0 +1,11 @@
+{
+  "name": "desktop-commander",
+  "source": {
+    "type": "github_single",
+    "repo_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP.git",
+    "commit_sha": "5c308865313691b74a565184ac80bae80ecd25cf",
+    "subdir": "plugins/claude",
+    "last_sync_at": "2026-05-12T09:59:26Z"
+  },
+  "installed_path": "./plugins/desktop-commander/.claude-plugin"
+}
