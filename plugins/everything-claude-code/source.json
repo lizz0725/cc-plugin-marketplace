@@ -3,9 +3,9 @@
   "source": {
     "type": "github_single",
     "repo_url": "https://github.com/affaan-m/everything-claude-code",
-    "commit_sha": "8926ea925e6fac3988fbb8d5097e7fe94f211798",
+    "commit_sha": "629d4c0c61874242f5374efcb20eee4f25427106",
     "subdir": null,
-    "last_sync_at": "2026-05-11T16:14:03Z"
+    "last_sync_at": "2026-05-12T02:34:38Z"
   },
   "installed_path": "./plugins/everything-claude-code/.claude-plugin"
 }
