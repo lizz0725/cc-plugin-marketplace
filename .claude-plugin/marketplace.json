@@ -31,12 +31,6 @@
       "source": "./plugins/everything-claude-code/.claude-plugin"
     },
     {
-      "name": "claude-mem",
-      "description": "Memory compression system for Claude Code - persist context across sessions",
-      "category": "community",
-      "source": "./plugins/claude-mem/.claude-plugin"
-    },
-    {
       "name": "document-skills",
       "description": "Collection of document processing suite including Excel, Word, PowerPoint, and PDF capabilities",
       "category": "community",

@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "last_updated": "2026-05-12T06:02:22Z",
+  "last_updated": "2026-05-12T06:12:37Z",
   "plugins": [
     {
       "name": "karpathy-skills",
@@ -91,35 +91,11 @@
         "type": "github_single",
         "repo_url": "https://github.com/affaan-m/everything-claude-code",
         "repo_ref": "main",
-        "commit_sha": "cb2a70ce7250d9728d83d31b607dc074577a4f6a",
+        "commit_sha": "60bd26fadfbb8856a89a608b2f9cbad993092cd0",
         "subdir": null,
         "version": "",
-        "last_sync_at": "2026-05-12T06:02:07Z",
+        "last_sync_at": "2026-05-12T06:12:24Z",
         "last_sync_status": "success"
-      }
-    },
-    {
-      "name": "claude-mem",
-      "display_name": "Claude Mem",
-      "description": "Auto-capture Claude sessions, compress with AI, inject context into future sessions",
-      "category": "community",
-      "author": "thedotmack",
-      "stars": 73100,
-      "homepage": "https://github.com/thedotmack/claude-mem",
-      "tags": [
-        "memory",
-        "context",
-        "session"
-      ],
-      "source": {
-        "type": "github_single",
-        "repo_url": "https://github.com/thedotmack/claude-mem",
-        "repo_ref": "main",
-        "commit_sha": "1cd545c36cabf59e219071f9f344df2a3592f3e7",
-        "subdir": null,
-        "version": "",
-        "last_sync_at": "2026-05-12T02:34:44Z",
-        "last_sync_status": "unchanged"
       }
     },
     {
