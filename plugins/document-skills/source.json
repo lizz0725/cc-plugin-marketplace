@@ -5,7 +5,7 @@
     "repo_url": "https://github.com/anthropics/skills",
     "marketplace_plugin_name": "document-skills",
     "commit_sha": "f458cee31a7577a47ba0c9a101976fa599385174",
-    "last_sync_at": "2026-05-11T14:28:32Z"
+    "last_sync_at": "2026-05-12T02:34:54Z"
   },
   "installed_path": "./plugins/document-skills/.claude-plugin"
 }
