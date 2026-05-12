@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "last_updated": "2026-05-12T10:19:46Z",
+  "last_updated": "2026-05-12T12:01:42Z",
   "plugins": [
     {
       "name": "karpathy-skills",
@@ -968,6 +968,32 @@
         "last_sync_at": "2026-05-12T09:57:28Z",
         "last_sync_status": "unchanged",
         "commit_sha": "4712250ae8e5ce3095cad3b43b62b33608888863"
+      }
+    },
+    {
+      "name": "oh-my-claudecode",
+      "display_name": "Oh My ClaudeCode",
+      "description": "Multi-agent orchestration system for Claude Code — 38 skills, 18 agents, 27 commands, custom MCP server",
+      "category": "community",
+      "author": "Yeachan Heo",
+      "stars": 10000,
+      "homepage": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "tags": [
+        "multi-agent",
+        "orchestration",
+        "automation",
+        "workflow",
+        "development"
+      ],
+      "source": {
+        "type": "github_single",
+        "repo_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+        "repo_ref": "main",
+        "subdir": null,
+        "version": "4.13.7",
+        "last_sync_status": "success",
+        "commit_sha": "679b418f32409e6d0edecf5038fd2de460cfce04",
+        "last_sync_at": "2026-05-12T12:01:42Z"
       }
     }
   ],
