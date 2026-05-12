@@ -26,7 +26,7 @@
     },
     {
       "name": "ecc",
-      "description": "Battle-tested Claude Code plugin for engineering teams — 56 agents, 217 skills, 72 legacy command shims, production-ready hooks, and selective install workflows evolved through continuous real-world use",
+      "description": "Battle-tested Claude Code plugin for engineering teams — 58 agents, 220 skills, 74 legacy command shims, production-ready hooks, and selective install workflows evolved through continuous real-world use",
       "category": "community",
       "source": "./plugins/everything-claude-code/.claude-plugin"
     },
@@ -47,12 +47,6 @@
       "description": "Collection of example skills demonstrating various capabilities including skill creation, MCP building, visual design, algorithmic art, internal communications, web testing, artifact building, Slack GIFs, and theme styling",
       "category": "community",
       "source": "./plugins/example-skills/.claude-plugin"
-    },
-    {
-      "name": "claude-api",
-      "description": "Claude API and SDK documentation skill for building LLM-powered applications",
-      "category": "community",
-      "source": "./plugins/claude-api/.claude-plugin"
     }
   ]
 }

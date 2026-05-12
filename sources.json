@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "last_updated": "2026-05-12T02:56:28Z",
+  "last_updated": "2026-05-12T06:02:22Z",
   "plugins": [
     {
       "name": "karpathy-skills",
@@ -23,7 +23,7 @@
         "subdir": null,
         "version": "",
         "last_sync_at": "2026-05-12T02:33:46Z",
-        "last_sync_status": "success"
+        "last_sync_status": "unchanged"
       }
     },
     {
@@ -47,7 +47,7 @@
         "subdir": null,
         "version": "",
         "last_sync_at": "2026-05-12T02:56:28Z",
-        "last_sync_status": "success"
+        "last_sync_status": "unchanged"
       }
     },
     {
@@ -71,7 +71,7 @@
         "subdir": null,
         "version": "",
         "last_sync_at": "2026-05-12T02:27:12Z",
-        "last_sync_status": "failed"
+        "last_sync_status": "unchanged"
       }
     },
     {
@@ -91,10 +91,10 @@
         "type": "github_single",
         "repo_url": "https://github.com/affaan-m/everything-claude-code",
         "repo_ref": "main",
-        "commit_sha": "629d4c0c61874242f5374efcb20eee4f25427106",
+        "commit_sha": "cb2a70ce7250d9728d83d31b607dc074577a4f6a",
         "subdir": null,
         "version": "",
-        "last_sync_at": "2026-05-12T02:34:38Z",
+        "last_sync_at": "2026-05-12T06:02:07Z",
         "last_sync_status": "success"
       }
     },
@@ -119,7 +119,7 @@
         "subdir": null,
         "version": "",
         "last_sync_at": "2026-05-12T02:34:44Z",
-        "last_sync_status": "success"
+        "last_sync_status": "unchanged"
       }
     },
     {
@@ -143,7 +143,7 @@
         "marketplace_plugin_name": "document-skills",
         "commit_sha": "f458cee31a7577a47ba0c9a101976fa599385174",
         "last_sync_at": "2026-05-12T02:34:54Z",
-        "last_sync_status": "success"
+        "last_sync_status": "unchanged"
       }
     },
     {
@@ -164,29 +164,7 @@
         "marketplace_plugin_name": "example-skills",
         "commit_sha": "f458cee31a7577a47ba0c9a101976fa599385174",
         "last_sync_at": "2026-05-12T02:35:04Z",
-        "last_sync_status": "success"
-      }
-    },
-    {
-      "name": "claude-api",
-      "display_name": "Claude API",
-      "description": "Claude API and SDK documentation skill for building LLM-powered applications",
-      "category": "community",
-      "author": "Anthropic",
-      "stars": 0,
-      "tags": [
-        "api",
-        "claude",
-        "sdk"
-      ],
-      "source": {
-        "type": "github_marketplace",
-        "repo_url": "https://github.com/anthropics/skills",
-        "repo_ref": "main",
-        "marketplace_plugin_name": "claude-api",
-        "commit_sha": "f458cee31a7577a47ba0c9a101976fa599385174",
-        "last_sync_at": "2026-05-12T02:35:22Z",
-        "last_sync_status": "success"
+        "last_sync_status": "unchanged"
       }
     }
   ],
