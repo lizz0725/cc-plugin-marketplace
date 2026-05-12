@@ -1,5 +1,6 @@
 {
   "name": "document-skills",
+  "version": "1.0.0",
   "description": "Collection of document processing suite including Excel, Word, PowerPoint, and PDF capabilities",
   "author": {
     "name": "Keith Lazuka",
