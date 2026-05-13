@@ -143,6 +143,93 @@ git push internal master
 - **双远程推送**：每次同步自动推送到 GitHub + Gitee，两边内容一致
 - **来源可追溯**：`sources.json` 记录每个插件的上游仓库地址、commit SHA 和同步时间
 
+## 插件来源
+
+本仓库所有插件均收录自开源社区，以下是每个插件的原始仓库地址。
+
+> 标注「Anthropic 官方市场」的插件来自 [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)，由官方团队维护并直接收录。
+
+### 社区热门
+
+| 插件 | 源仓库 |
+|------|--------|
+| `andrej-karpathy-skills` | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) |
+| `caveman` | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) |
+| `document-skills` | [anthropics/skills](https://github.com/anthropics/skills) |
+| `ecc` | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) |
+| `example-skills` | [anthropics/skills](https://github.com/anthropics/skills) |
+| `oh-my-claudecode` | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) |
+| `remember` | [Digital-Process-Tools/claude-remember](https://github.com/Digital-Process-Tools/claude-remember) |
+| `ui-ux-pro-max` | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) |
+
+### 开发工具
+
+| 插件 | 源仓库 |
+|------|--------|
+| `agent-sdk-dev` | Anthropic 官方市场 |
+| `ai` | [pydantic/skills](https://github.com/pydantic/skills) |
+| `base44` | [base44/skills](https://github.com/base44/skills) |
+| `chrome-devtools-mcp` | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) |
+| `code-modernization` | Anthropic 官方市场 |
+| `context7` | Anthropic 官方市场 |
+| `expo` | [expo/skills](https://github.com/expo/skills) |
+| `feature-dev` | Anthropic 官方市场 |
+| `firecrawl` | [firecrawl/firecrawl-claude-plugin](https://github.com/firecrawl/firecrawl-claude-plugin) |
+| `frontend-design` | Anthropic 官方市场 |
+| `greptile` | Anthropic 官方市场 |
+| `laravel-boost` | Anthropic 官方市场 |
+| `liquid-lsp` | [Shopify/liquid-skills](https://github.com/Shopify/liquid-skills) |
+| `liquid-skills` | [Shopify/liquid-skills](https://github.com/Shopify/liquid-skills) |
+| `mcp-server-dev` | Anthropic 官方市场 |
+| `microsoft-docs` | [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) |
+| `mintlify` | Anthropic 官方市场 |
+| `oracle-ai-data-platform-workbench-spark-connectors` | [oracle-samples/oracle-aidp-samples](https://github.com/oracle-samples/oracle-aidp-samples) |
+| `outputai` | [growthxai/output](https://github.com/growthxai/output) |
+| `playground` | Anthropic 官方市场 |
+| `plugin-dev` | Anthropic 官方市场 |
+| `qodo-skills` | [qodo-ai/qodo-skills](https://github.com/qodo-ai/qodo-skills) |
+| `qt-development-skills` | [TheQtCompanyRnD/agent-skills](https://github.com/TheQtCompanyRnD/agent-skills) |
+| `quarkus-agent` | [quarkusio/quarkus-agent-mcp](https://github.com/quarkusio/quarkus-agent-mcp) |
+| `ralph-loop` | Anthropic 官方市场 |
+| `serena` | Anthropic 官方市场 |
+| `skill-creator` | Anthropic 官方市场 |
+| `superpowers` | [obra/superpowers](https://github.com/obra/superpowers) |
+| `terraform` | Anthropic 官方市场 |
+
+### 效率工具
+
+| 插件 | 源仓库 |
+|------|--------|
+| `agent-skills` | [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills) |
+| `atlassian` | [atlassian/atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) |
+| `box` | [box/box-for-ai](https://github.com/box/box-for-ai) |
+| `claude-code-setup` | Anthropic 官方市场 |
+| `claude-md-management` | Anthropic 官方市场 |
+| `code-review` | Anthropic 官方市场 |
+| `code-simplifier` | Anthropic 官方市场 |
+| `coderabbit` | [coderabbitai/skills](https://github.com/coderabbitai/skills) |
+| `commit-commands` | Anthropic 官方市场 |
+| `cwc-makers` | Anthropic 官方市场 |
+| `desktop-commander` | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) |
+| `gitlab` | Anthropic 官方市场 |
+| `hookify` | Anthropic 官方市场 |
+| `pr-review-toolkit` | Anthropic 官方市场 |
+| `windsor-ai` | [windsor-ai/claude-windsor-ai-plugin](https://github.com/windsor-ai/claude-windsor-ai-plugin) |
+
+### 其他
+
+| 插件 | 源仓库 |
+|------|--------|
+| `clickhouse` | [ClickHouse/clickhouse-claude-code-plugin](https://github.com/ClickHouse/clickhouse-claude-code-plugin) |
+| `cockroachdb` | [cockroachdb/claude-plugin](https://github.com/cockroachdb/claude-plugin) |
+| `explanatory-output-style` | Anthropic 官方市场 |
+| `learning-output-style` | Anthropic 官方市场 |
+| `math-olympiad` | Anthropic 官方市场 |
+| `mongodb` | [mongodb/agent-skills](https://github.com/mongodb/agent-skills) |
+| `playwright` | Anthropic 官方市场 |
+| `qdrant` | [qdrant/skills](https://github.com/qdrant/skills) |
+| `security-guidance` | Anthropic 官方市场 |
+
 ## 协议
 
 本仓库本身采用 [MIT License](LICENSE)。
